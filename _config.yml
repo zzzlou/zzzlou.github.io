@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Zhanzhi Lou(楼展制)"
+title                    : "Zhanzhi Lou"
 title_separator          : "-"
-name                     : &name "Zhanzhi Lou"
+name                     : &name "Zhanzhi Lou(楼展制)"
 description              : &description "Second-year CS student at NUS"
 url                      : https://zzzlou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
