@@ -6,4 +6,4 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**Hi, I'm Zhanzhi.** I am an undergraduate student at NUS School of Computing(SoC), where I am fortunate to be supervised Professor Harold Soh. My research interest lies in general LLM and embodied AI.
+**Hi, I'm Zhanzhi.** I am an undergraduate student at NUS School of Computing(SoC), where I am fortunate to be supervised by Professor Harold Soh. My research interest lies in general LLM and embodied AI.
